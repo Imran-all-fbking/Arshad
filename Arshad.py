@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python2 Arshad.py
 #coding=utf-8
 #The Credit For This Code Goes To Mr HACKER XD
 
